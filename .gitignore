@@ -1,4 +1,9 @@
-sender
-package-lock
+# Ignore specific files
+sender.js
+package-lock.json
+
+# Ignore directories
 node_modules/
+
+# Ignore environment variables file
 .env
