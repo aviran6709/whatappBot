@@ -9,5 +9,5 @@ This project is a simple WhatsApp bot built using Node.js and the Twilio API. It
 - **Welcome Message:** Sends a welcome message to new users with a list of services.
 - **Service Selection:** Responds with a confirmation message based on the service selected by the user.
 
-## Installation
+
 
